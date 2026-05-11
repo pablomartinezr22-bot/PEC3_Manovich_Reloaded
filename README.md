@@ -17,7 +17,7 @@ Para ilustrar este concepto, se estudian dos casos contemporáneos: Beat Saber y
 
 ## Caso 1: Beat Saber – La música hecha arquitectura y danza
 
-![Beat Saber - Gameplay e Interfaz](img/beatsaber.jpg)
+![Beat Saber - Gameplay e Interfaz](img/beat-saber.jpg)
 
 **Beat Saber** representa uno de los ejemplos más puros y evolucionados de lo que Lev Manovich denomina "hibridación" en su obra fundamental *El software toma el mando*. A diferencia de la multimedia tradicional de finales del siglo XX, donde el audio, el video y la imagen simplemente coexistían en pistas paralelas pero independientes, en este título el software actúa como un motor de fusión profunda que redefine la naturaleza ontológica de ambos medios. En esta experiencia, no estamos simplemente ante un programa que reproduce una pista musical mientras muestra imágenes estáticas; estamos ante un ecosistema de software que convierte el flujo temporal del sonido en una arquitectura geométrica habitable, tangible y navegable en tres dimensiones. Esta capacidad de transformar lo intangible (sonido) en lo espacial (geometría) es la esencia misma de la hibridación mediática contemporánea.
 
@@ -31,7 +31,7 @@ Finalmente, el éxito masivo y la relevancia cultural de *Beat Saber* residen en
 
 ## Caso 2: Until Then – La vida como interfaz de datos
 
-![Until Then - Gameplay and Narrative Interface](img/untilthen.jpg)
+![Until Then - Gameplay and Narrative Interface](img/Until_Then.jpg)
 
 **Until Then** es un caso fascinante de hibridación moderna que explora cómo el software ha "tomado el mando" de nuestra vida social y emocional, transformando la experiencia del usuario en un proceso de interacción técnica y narrativa. El juego se aleja decididamente de la narrativa cinematográfica tradicional para abrazar lo que podríamos llamar una "narrativa de interfaz". En lugar de limitarse a mostrar escenas pasivas, el software hibrida la estructura literaria de una novela visual con la simulación profunda de sistemas operativos y redes sociales contemporáneas. Según las tesis de Manovich, la hibridación ocurre cuando las propiedades físicas y lógicas de un medio se incorporan a otro, creando un objeto cultural nuevo. En este título, la navegación por una interfaz simulada —realizar *scroll* infinito, dar *likes*, gestionar notificaciones o chatear mediante teclados virtuales— se convierte en el lenguaje principal y el motor de avance para contar una compleja historia de pérdida y amistad. No es solo un juego sobre redes sociales; es un juego que ocurre "dentro" de la lógica del software social.
 
